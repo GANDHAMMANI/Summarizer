@@ -1,8 +1,0 @@
-[build]
-  publish = "public"  # This should point to the directory containing your static files (e.g., CSS, JS)
-  command = "pip install -r requirements.txt && python app.py"  # Command to build and run your Flask app
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
