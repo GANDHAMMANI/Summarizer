@@ -1,6 +1,6 @@
-streamlit==0.82.0
-numpy==1.21.0
-spacy==3.0.6
-nltk==3.6.2
-scikit-learn==0.24.2
-streamlit-lottie==0.0.2
+streamlit
+numpy
+spacy
+nltk
+scikit-learn
+streamlit-lottie
