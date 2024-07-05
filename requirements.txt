@@ -1,6 +1,0 @@
-streamlit
-numpy
-spacy
-nltk
-scikit-learn
-streamlit-lottie
